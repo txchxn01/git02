@@ -1,1 +1,1 @@
-sawadeekub
+echo("first php");
